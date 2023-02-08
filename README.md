@@ -12,5 +12,24 @@
 <ul>
 <li>🔭 I’m currently working on <a href="link to be updated">My current project</a>.</li>
 <li>🧐 Learning about <strong>Explolatory Data Analysis(EDA)</strong> and a bit of <strong>Data Science</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Gagwani07">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/JatinGagwani">Github</a>.</li>
 <li>💬 Ping me about <strong>Python, Database Management System, and SQL</strong>.</li>
+<li>📙 Check out my <a href="https://gagwani07.github.io/resume/resume.pdf">resume</a>.</li>
+</ul>
+<h2>✒️ Recent Project</h2>
+    <img src="https://jatingagwani.github.io/Cyclistic-EDA/cycle.png">
+    <li><a target="_blank" href="https://JatinGagwani.github.io/BELLABEAT-EDA/">BELLABEAT-EDA</a></li>
+    <img src="https://github.com/JatinGagwani/BELLABEAT-EDA/blob/main/download.png">
+    <li><a target="_blank" href="https://JatinGagwani.github.io/Cyclistic-EDA/">Cyclistic EDA</a></li>
+
+<p><a target="_blank" href="https://JatinGagwani.github.io/">Explore More</a></p>
+<h2>🚀 Some Tools I Use</h2>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+
+</p>
+<img src="https://github-readme-stats.vercel.app/api?username=JatinGagwani&show_icons=true&count_private=true" alt="JatinGagwani" />
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=JatinGagwani.JatinGagwani" alt="visitors"></p>
