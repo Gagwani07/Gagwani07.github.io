@@ -18,9 +18,9 @@
 </ul>
 <h2>✒️ Recent Project</h2>
     <img src="https://jatingagwani.github.io/Cyclistic-EDA/cycle.png">
-    <li><a target="_blank" href="https://JatinGagwani.github.io/BELLABEAT-EDA/">BELLABEAT-EDA</a></li>
-    <img src="https://github.com/JatinGagwani/BELLABEAT-EDA/blob/main/download.png">
     <li><a target="_blank" href="https://JatinGagwani.github.io/Cyclistic-EDA/">Cyclistic EDA</a></li>
+    <img src="https://raw.githubusercontent.com/JatinGagwani/BELLABEAT-EDA/main/download.png">
+    <li><a target="_blank" href="https://JatinGagwani.github.io/BELLABEAT-EDA/">BELLABEAT-EDA</a></li>
 
 <p><a target="_blank" href="https://JatinGagwani.github.io/">Explore More</a></p>
 <h2>🚀 Some Tools I Use</h2>
