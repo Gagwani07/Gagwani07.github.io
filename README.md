@@ -32,4 +32,4 @@
 
 </p>
 <img src="" alt="JatinGagwani" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=JatinGagwani.JatinGagwani" alt="visitors"></p>
+<p><img src="" alt="visitors"></p>
