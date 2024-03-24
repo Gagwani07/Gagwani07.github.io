@@ -31,5 +31,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=JatinGagwani&show_icons=true&count_private=true" alt="JatinGagwani" />
+<img src="" alt="JatinGagwani" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=JatinGagwani.JatinGagwani" alt="visitors"></p>
